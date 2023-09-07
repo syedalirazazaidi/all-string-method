@@ -90,6 +90,16 @@
 
 //  const newstr="developer"
 //  console.log(newstr.padStart(9,"foo"))
-var totn_string = 'TechOnTheNet';
+// var totn_string = 'TechOnTheNet';
 
-console.log(totn_string.padStart(20));
+// console.log(totn_string.padStart(20));
+
+
+//  const newstr="developer"
+//  console.log(newstr.padEnd(19,"foo"))
+
+
+const localcomp="software engineer engineer"
+const newlocalcomp="software software"
+  
+console.log(localcomp.localeCompare(newlocalcomp))
