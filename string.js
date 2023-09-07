@@ -30,7 +30,22 @@
 // String.slice()
 // not change the orignal string
 
+// const newstr="hi developerh"
+// const newone=newstr.slice(-2)
+// console.log(newone)
+// console.log(newstr)
+
+// String.subString()
+// not change the orignal string
+
+// const newstr="hi developerh"
+// const newone=newstr.substring(-12)
+// console.log(newone)
+// console.log(newstr)
+
+// string.split()
+
 const newstr="hi developerh"
-const newone=newstr.slice(2)
+const newone=newstr.split(" ").join("-")
 console.log(newone)
 console.log(newstr)
