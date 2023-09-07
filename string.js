@@ -7,8 +7,17 @@
 // const str2="hi this is raza"
 // console.log(str2,"---",str2[0])
 
+// String.charAt()
 
-const newstr="hi develoepr"
-console.log(newstr.charAt(9))
+// const newstr="hi develoepr"
+// console.log(newstr.charAt(9))
 
 
+// String.indexOf()
+// const newstr="hi developer"
+// console.log(newstr.indexOf("r"))
+
+// String.lastIndexOf()
+
+const newstr="hi developerh"
+console.log(newstr.lastIndexOf("h"))
