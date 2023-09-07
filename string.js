@@ -78,6 +78,10 @@
 
 // String.repeat()
 
-const newstr="this is developer"
-console.log(newstr.repeat(newstr.length))
+// const newstr="this is developer"
+// console.log(newstr.repeat(newstr.length))
 
+// String.Trim()
+
+ const newstr=" this is developer"
+ console.log(newstr.trim())
