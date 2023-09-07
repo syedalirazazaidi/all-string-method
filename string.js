@@ -25,3 +25,12 @@
 
 // const newstr="hi developerh"
 // console.log(newstr.lastIndexOf("h"))
+
+
+// String.slice()
+// not change the orignal string
+
+const newstr="hi developerh"
+const newone=newstr.slice(2)
+console.log(newone)
+console.log(newstr)
