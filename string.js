@@ -119,9 +119,15 @@
 
 // String.matchAll()
 
+// const str='The rain in SPAIN stays mainly in the plain SPAIN'
+
+// const newstr=(str.matchAll("SPAIN"))
+
+// console.log(...newstr)
+
+// String.replace()
 const str='The rain in SPAIN stays mainly in the plain SPAIN'
 
-const newstr=(str.matchAll("SPAIN"))
+const newstr=(str.replace("SPAIN","spain"))
 
-console.log(...newstr)
-
+console.log(newstr)
