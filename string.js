@@ -46,6 +46,6 @@
 // string.split()
 
 const newstr="hi developerh"
-const newone=newstr.split(" ").join("-")
+const newone=newstr.split("e")
 console.log(newone)
 console.log(newstr)
