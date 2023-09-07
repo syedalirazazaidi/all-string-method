@@ -112,5 +112,6 @@
 
 // String.match()
 
-const str='The rain in SPAIN stays mainly in the plain'
-console.log(str.match("rain"))
+const str='The rain in SPAIN stays mainly in the plain SPAIN'
+console.log(str.match(/rain/gi))
+console.log(str.match("SPAIN"))
