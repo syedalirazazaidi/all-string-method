@@ -52,7 +52,16 @@
 
 // string.includes()
 
+// const newstr="the quick brown fox jump over the lazy dog"
+// const newone=newstr.includes("fox",19)
+// console.log(newone)
+// console.log(newstr)
+
+// string.startWith()
+
 const newstr="the quick brown fox jump over the lazy dog"
-const newone=newstr.includes("fox")
+const newone=newstr.startsWith("i")
+const newend=newstr.endsWith("dog")
 console.log(newone)
 console.log(newstr)
+console.log(newend)
