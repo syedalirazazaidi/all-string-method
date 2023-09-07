@@ -143,7 +143,11 @@
 // console.log(newstr)
 
 // String.toLocaleUpperCase()
-const str='The rain in SPAIN stays mainly in the plain SPAIN'
-const newstr=(str.toLocaleUpperCase('FR'))
-console.log(str)
-console.log(newstr)
+// const str='The rain in SPAIN stays mainly in the plain SPAIN'
+// const newstr=(str.toLocaleUpperCase('FR'))
+// console.log(str)
+// console.log(newstr)
+
+// String.toString()
+
+const str= "hithisis develrop"
