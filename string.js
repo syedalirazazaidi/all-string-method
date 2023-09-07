@@ -83,5 +83,13 @@
 
 // String.Trim()
 
- const newstr=" this is developer"
- console.log(newstr.trim())
+//  const newstr=" this is developer"
+//  console.log(newstr.trim())
+
+// String.padStart()
+
+//  const newstr="developer"
+//  console.log(newstr.padStart(9,"foo"))
+var totn_string = 'TechOnTheNet';
+
+console.log(totn_string.padStart(20));
