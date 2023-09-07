@@ -52,7 +52,7 @@
 
 // string.includes()
 
-const newstr="hi developerh"
-const newone=newstr.includes("z")
+const newstr="the quick brown fox jump over the lazy dog"
+const newone=newstr.includes("fox")
 console.log(newone)
 console.log(newstr)
