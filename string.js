@@ -14,10 +14,14 @@
 
 
 // String.indexOf()
-// const newstr="hi developer"
-// console.log(newstr.indexOf("r"))
+
+// const newstr="rhi developerp"
+// console.log(newstr.indexOf("e"))
+// console.log(newstr.indexOf("e",8))
+// console.log(newstr.indexOf("r",-4))
+// console.log(newstr.indexOf(" "))
 
 // String.lastIndexOf()
 
-const newstr="hi developerh"
-console.log(newstr.lastIndexOf("h"))
+// const newstr="hi developerh"
+// console.log(newstr.lastIndexOf("h"))
