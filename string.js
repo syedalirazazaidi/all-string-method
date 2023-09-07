@@ -112,6 +112,16 @@
 
 // String.match()
 
+// const str='The rain in SPAIN stays mainly in the plain SPAIN'
+// console.log(str.match(/rain/gi))
+// console.log(str.match("SPAIN"))
+
+
+// String.matchAll()
+
 const str='The rain in SPAIN stays mainly in the plain SPAIN'
-console.log(str.match(/rain/gi))
-console.log(str.match("SPAIN"))
+
+const newstr=(str.matchAll("SPAIN"))
+
+console.log(...newstr)
+
