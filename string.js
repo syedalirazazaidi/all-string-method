@@ -99,7 +99,18 @@
 //  console.log(newstr.padEnd(19,"foo"))
 
 
-const localcomp="software engineer engineer"
-const newlocalcomp="software software"
+// const localcomp="software engineer engineer"
+// const newlocalcomp="software software"
   
-console.log(localcomp.localeCompare(newlocalcomp))
+// console.log(localcomp.localeCompare(newlocalcomp))
+
+
+// String.search()
+
+// const str='The rain in SPAIN stays mainly in the plain'
+// console.log(str.search("main"))
+
+// String.match()
+
+const str='The rain in SPAIN stays mainly in the plain'
+console.log(str.match("rain"))
