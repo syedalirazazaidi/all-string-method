@@ -45,7 +45,14 @@
 
 // string.split()
 
+// const newstr="hi developerh"
+// const newone=newstr.split("e")
+// console.log(newone)
+// console.log(newstr)
+
+// string.includes()
+
 const newstr="hi developerh"
-const newone=newstr.split("e")
+const newone=newstr.includes("z")
 console.log(newone)
 console.log(newstr)
