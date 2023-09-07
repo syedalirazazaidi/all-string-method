@@ -132,6 +132,12 @@
 // console.log(newstr)
 
 // String.charCodeAt()
-const str='new one'
-const newstr=(str.codePointAt(1))
-console.log(newstr,"newstr")
+// const str='new one'
+// const newstr=(str.codePointAt(1))
+// console.log(newstr,"newstr")
+
+// String.toLowerCase()
+const str='The rain in SPAIN stays mainly in the plain SPAIN'
+const newstr=(str.toUpperCase())
+console.log(str)
+console.log(newstr)
