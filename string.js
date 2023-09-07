@@ -59,9 +59,20 @@
 
 // string.startWith()
 
-const newstr="the quick brown fox jump over the lazy dog"
-const newone=newstr.startsWith("i")
-const newend=newstr.endsWith("dog")
-console.log(newone)
-console.log(newstr)
-console.log(newend)
+// const newstr="the quick brown fox jump over the lazy dog"
+// const newone=newstr.startsWith("i")
+// const newend=newstr.endsWith("dog")
+// console.log(newone)
+// console.log(newstr)
+// console.log(newend)
+
+// String.concat()
+
+// const newstr="the quick brown fox jump over the lazy dog"
+// const newone=newstr.concat(" heello")
+// console.log(newone)"
+// const assste="hi this is raza"
+// const assene="new one below"
+// console.log(assste+"",assene)
+
+
