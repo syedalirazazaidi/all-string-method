@@ -76,3 +76,8 @@
 // console.log(assste+"",assene)
 
 
+// String.repeat()
+
+const newstr="this is developer"
+console.log(newstr.repeat(newstr.length))
+
