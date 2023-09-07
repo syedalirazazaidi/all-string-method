@@ -126,8 +126,12 @@
 // console.log(...newstr)
 
 // String.replace()
-const str='The rain in SPAIN stays mainly in the plain SPAIN'
 
-const newstr=(str.replace("SPAIN","spain"))
+// const str='The rain in SPAIN stays mainly in the plain SPAIN'
+// const newstr=(str.replace("SPAIN","spain"))
+// console.log(newstr)
 
-console.log(newstr)
+// String.charCodeAt()
+const str='new one'
+const newstr=(str.codePointAt(1))
+console.log(newstr,"newstr")
