@@ -50,4 +50,6 @@ console.log("Array Method")
 
 // FindIndex
 
-// let arr1 = [3, 4, 5, 6];
+let ranks = [1, 5, 7, 8, 10, 7];
+let index = ranks.findIndex(rank => rank >8 );
+console.log(index);
