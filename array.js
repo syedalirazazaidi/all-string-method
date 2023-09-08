@@ -51,5 +51,5 @@ console.log("Array Method")
 // FindIndex
 
 let ranks = [1, 5, 7, 8, 10, 7];
-let index = ranks.findIndex(rank => rank >8 );
+let index = ranks.indexOf(8);
 console.log(index);
