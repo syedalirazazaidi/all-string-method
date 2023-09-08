@@ -33,8 +33,21 @@ console.log("Array Method")
 
 // Concat Method
 
-let arr1 = [3, 4, 5, 6];
-let arr2 = [9, 14, 15, 61];
+// let arr1 = [3, 4, 5, 6];
+// let arr2 = [9, 14, 15, 61];
 
-const newarr=arr1.concat(arr2,3,5,6,7)
-console.log(newarr)
+// const newarr=arr1.concat(arr2,3,5,6,7)
+// console.log(newarr)
+
+// Find Method
+
+// let arr1 = [3, 4, 5, 6];
+
+
+// const newarr=arr1.find((elem)=>elem>5)
+// console.log(newarr)
+// console.log(arr1)
+
+// FindIndex
+
+// let arr1 = [3, 4, 5, 6];
