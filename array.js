@@ -29,3 +29,12 @@ console.log("Array Method")
 
 // console.log(modifiedArr);
 // console.log(arr)
+
+
+// Concat Method
+
+let arr1 = [3, 4, 5, 6];
+let arr2 = [9, 14, 15, 61];
+
+const newarr=arr1.concat(arr2,3,5,6,7)
+console.log(newarr)
